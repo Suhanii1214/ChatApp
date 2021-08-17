@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301104291002",
+    "project_id": "frendzzchat-aecfc",
+    "storage_bucket": "frendzzchat-aecfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301104291002:android:c0b5b0712308593f41f683",
+        "android_client_info": {
+          "package_name": "com.suhani.frendzzchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301104291002-lehu7kao8hgqs8cl7q5lec94tbq4uj7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29EYsljB7celazYVXSTb-IIAMYI4xqeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301104291002-lehu7kao8hgqs8cl7q5lec94tbq4uj7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
